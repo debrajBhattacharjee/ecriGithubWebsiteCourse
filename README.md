@@ -83,3 +83,27 @@ This material was developed by the RCDS team at ECRI.
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
 
 ![ECRI logo](docs/assets/ecri-banner.png)
+
+### Custom table
+
+<table>
+<thead>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content 1_1</td>
+<td>Content 1_2</td>
+<td>Content 1_3</td>
+</tr>
+<tr>
+<td>Content 2_1</td>
+<td>Content 2_2</td>
+<td>Content 2_3</td>
+</tr>
+</tbody>
+</table>
