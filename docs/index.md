@@ -2,6 +2,13 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+Adding new material below
+
+![ECRI Bannner Image](assets/ecri-banner.png)
+
+Below is the link for MKDocs documentation
+[Website](https://squidfunk.github.io/mkdocs-material/reference/)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
