@@ -23,7 +23,7 @@ let's improve the aesthetics in this file. While editing, you can toggle into Pr
 <!-- Next up, headings. Add one or more hashtags before a line to make it a heading -->
 <!-- More hashtags mean a deeper level subheading. Make Getting Started a level 2 heading. -->
 
-Getting Started
+### Getting Started
 
 Important!!
 
@@ -76,10 +76,10 @@ pip install mkdocs-material
 
 <!-- For links, surround link text with square brackets and the URL with round parentheses [TEXT](URL) -->
 
-Those are a few of the basics, but there is lots more to explore. This is a great resource from GitHub https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Those are a few of the basics, but there is lots more to explore. [This is a great resource from GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 This material was developed by the RCDS team at ECRI.
 
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
 
-ECRI logo at docs/assets/ecri-banner.png
+![ECRI logo](docs/assets/ecri-banner.png)
